@@ -1,0 +1,1 @@
+const e={key:"v-37cdf374",path:"/chart.html",title:"Firmware Chart",lang:"en-US",frontmatter:{title:"Firmware Chart",description:"iOS Jailbreak Firmware Chart",sidebar:!1,editLink:!1,lastUpdated:!1,contributors:!1},excerpt:"",headers:[{level:2,title:"Version Table",slug:"version-table",children:[]}]};export{e as data};

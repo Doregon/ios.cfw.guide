@@ -1,0 +1,1 @@
+const e={key:"v-d229409c",path:"/chart/jailbreak/Seas0nPass.html",title:"Seas0nPass",lang:"en-US",frontmatter:{title:"Seas0nPass",description:"Compatible firmwares for Seas0nPass",redirect_from:["/chart/jailbreak/SeasonPass"],sidebar:!1,editLink:!1,lastUpdated:!1,contributors:!1},excerpt:"",headers:[{level:2,title:"Info",slug:"info",children:[]}]};export{e as data};

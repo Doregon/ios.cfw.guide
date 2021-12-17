@@ -1,0 +1,1 @@
+import{o as e,c as a}from"./app.3be01406.js";import{_ as r}from"./plugin-vue_export-helper.21dcd24c.js";const t={};function n(s,l){return e(),a("p",null,"After installing checkra1n, we'll be using a script to install Odysseyra1n. This replaces important parts of the jailbreak with modern and fast alternatives.")}var i=r(t,[["render",n]]);export{i as default};

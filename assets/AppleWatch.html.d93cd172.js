@@ -1,0 +1,1 @@
+const e={key:"v-fe097156",path:"/chart/device/AppleWatch.html",title:"Device Selection (Apple Watch)",lang:"en-US",frontmatter:{title:"Device Selection (Apple Watch)",description:"Find out what jailbreaks you can use on your Apple Watch",sidebar:!1,editLink:!1,lastUpdated:!1,contributors:!1},excerpt:"",headers:[]};export{e as data};

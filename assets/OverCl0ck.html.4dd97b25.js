@@ -1,0 +1,1 @@
+const e={key:"v-5c7f9bb2",path:"/chart/jailbreak/OverCl0ck.html",title:"OverCl0ck",lang:"en-US",frontmatter:{title:"OverCl0ck",description:"Compatible firmwares for OverCl0ck",redirect_from:["/chart/jailbreak/Overclock"],sidebar:!1,editLink:!1,lastUpdated:!1,contributors:!1},excerpt:"",headers:[{level:2,title:"Info",slug:"info",children:[]}]};export{e as data};

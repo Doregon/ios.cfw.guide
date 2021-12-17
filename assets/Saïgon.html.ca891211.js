@@ -1,0 +1,1 @@
+const e={key:"v-c690eeac",path:"/chart/jailbreak/Sa%C3%AFgon.html",title:"Sa\xEFgon",lang:"en-US",frontmatter:{title:"Sa\xEFgon",description:"Compatible firmwares for Sa\xEFgon",redirect_from:["/chart/jailbreak/saigon"],sidebar:!1,editLink:!1,lastUpdated:!1,contributors:!1},excerpt:"",headers:[{level:2,title:"Info",slug:"info",children:[]}]};export{e as data};

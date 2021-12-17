@@ -1,0 +1,1 @@
+const e={key:"v-1e924fec",path:"/chart/jailbreak/EtasonATV.html",title:"EtasonATV",lang:"en-US",frontmatter:{title:"EtasonATV",description:"Compatible firmwares for EtasonATV",redirect_from:[],sidebar:!1,editLink:!1,lastUpdated:!1,contributors:!1},excerpt:"",headers:[{level:2,title:"Info",slug:"info",children:[]}]};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-0b349818",path:"/chart/jailbreak/wiNstaller.html",title:"wiNstaller",lang:"en-US",frontmatter:{title:"wiNstaller",description:"Compatible firmwares for wiNstaller",redirect_from:[],sidebar:!1,editLink:!1,lastUpdated:!1,contributors:!1},excerpt:"",headers:[{level:2,title:"Info",slug:"info",children:[]}]};export{e as data};

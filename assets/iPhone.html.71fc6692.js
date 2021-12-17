@@ -1,0 +1,1 @@
+const e={key:"v-3cd2edf6",path:"/chart/device/iPhone.html",title:"Device Selection (iPhone)",lang:"en-US",frontmatter:{title:"Device Selection (iPhone)",description:"Find out what jailbreaks you can use on your iPhone",sidebar:!1,editLink:!1,lastUpdated:!1,contributors:!1},excerpt:"",headers:[]};export{e as data};

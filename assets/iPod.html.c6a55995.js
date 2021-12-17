@@ -1,0 +1,1 @@
+const e={key:"v-7facf10e",path:"/chart/device/iPod.html",title:"Device Selection (iPod)",lang:"en-US",frontmatter:{title:"Device Selection (iPod)",description:"Find out what jailbreaks you can use on your iPod",sidebar:!1,editLink:!1,lastUpdated:!1,contributors:!1},excerpt:"",headers:[]};export{e as data};

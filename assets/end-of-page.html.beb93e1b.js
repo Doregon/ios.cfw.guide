@@ -1,0 +1,1 @@
+const e={key:"v-05ec95e6",path:"/en_US/jailbreak/checkra1n/include/end-of-page.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Installing packages",slug:"installing-packages",children:[]}],git:{updatedTime:1638671858e3,contributors:[{name:"emiyl",email:"me@emiyl.com",commits:2}]}};export{e as data};

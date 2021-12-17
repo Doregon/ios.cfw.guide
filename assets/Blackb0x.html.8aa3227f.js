@@ -1,0 +1,1 @@
+const e={key:"v-93c20b4c",path:"/chart/jailbreak/Blackb0x.html",title:"Blackb0x",lang:"en-US",frontmatter:{title:"Blackb0x",description:"Compatible firmwares for Blackb0x",redirect_from:["/chart/jailbreak/blackbox"],sidebar:!1,editLink:!1,lastUpdated:!1,contributors:!1},excerpt:"",headers:[{level:2,title:"Info",slug:"info",children:[]}]};export{e as data};
